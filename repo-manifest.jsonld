@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/tox-dev/filelock/commit/4c6f32f2797b2883bbcb0cca1ee81211d3e09c12",
       "git:hexsha": "4c6f32f2797b2883bbcb0cca1ee81211d3e09c12",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/tox-dev/filelock/commit/793610794a444bd9d2773615a6e483de349acc4f",
